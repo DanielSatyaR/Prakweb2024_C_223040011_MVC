@@ -1,6 +1,6 @@
 <?php
 
-define("BASEURL", "http://localhost/belajar/phpmvc/sesi8/public");
+define("BASEURL", "http://localhost/");
 
 // DATANASE
 define('DB_HOST', 'localhost');
